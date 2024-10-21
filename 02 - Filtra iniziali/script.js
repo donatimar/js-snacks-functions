@@ -16,6 +16,6 @@ function filterLetter(array, letter) {
 
 // Invoca la funzione qui e stampa il risultato in console
 const result = filterLetter(names, "A");
-console.log("Risultato:", result);
 
 //Risultato atteso se si passa la lettera A: ["Anna", "Adele", "Alessandra"]
+console.log("Risultato:", result);
