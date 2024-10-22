@@ -4,7 +4,7 @@ const word = "javascript";
 
 // Dichiara la funzione qui.
 function typeVowels(string) {
-  const vowels = "aeiou";
+  const vowels = ["a", "e", "i", "o", "u"];
   let countVowels = 0;
   let foundVowels = [];
 
